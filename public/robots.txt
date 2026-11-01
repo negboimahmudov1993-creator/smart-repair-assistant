@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umnyj-remontnyj-pomoshhnik-1.vercel.app/sitemap.xml

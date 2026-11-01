@@ -1,0 +1,11 @@
+{
+  "name": "Умный Ремонтный Помощник - ИИ-оценка поломок и расчет цен",
+  "description": "Умный Ремонтный Помощник (JOL-Remont) — ИИ-оценка поломок и расчет цен. Анализ поломок по фото, расчет сметы на детали и работу мастера, карта магазинов и прямые контакты.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
